@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/3d_hritik_portfolio/static/css/main.58a0c615.css",
+    "main.js": "/3d_hritik_portfolio/static/js/main.8a52d5a4.js",
+    "static/media/HeroImage.jpg": "/3d_hritik_portfolio/static/media/HeroImage.8baf04394ffb77bec7fd.jpg",
+    "index.html": "/3d_hritik_portfolio/index.html",
+    "main.58a0c615.css.map": "/3d_hritik_portfolio/static/css/main.58a0c615.css.map",
+    "main.8a52d5a4.js.map": "/3d_hritik_portfolio/static/js/main.8a52d5a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a0c615.css",
+    "static/js/main.8a52d5a4.js"
+  ]
+}
