@@ -8,6 +8,6 @@ root.render(
   <React.StrictMode>
     <App />
 
-    {/* deploy karne package.json me jake "name" ke niche "homepage":"https//git_name.github.io/repo_name" */}
+    {/* deploy karne package.json me jake "name" ke niche "https//Hritik1753.github.io/3d_hritik_portfolio" */}
   </React.StrictMode>
 );
