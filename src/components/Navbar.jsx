@@ -33,6 +33,25 @@ const NavLogo = styled(LinkR)`
   font-size: 18px;
   text-decoration: none;
   color: inherit;
+
+  
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+
+  &:before,
+  &:after {
+    content: '<';
+    color: #6c63ff;
+    margin: 0 8px;
+  }
+
+  &:after {
+    content: '/>';
+  }
 `;
 
 const NavItems = styled.ul`
@@ -126,13 +145,28 @@ const MobileMenu = styled.ul`
   z-index: ${({ isOpen }) => (isOpen ? "1000" : "-1000")};
 `;
 
+const MobileLink = styled.a`
+  color: ${({ theme }) => theme.text_primary};
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  text-decoration: none;
+  :hover {
+    color: ${({ theme }) => theme.primary};
+  }
+
+  &.active {
+    border-bottom: 2px solid ${({ theme }) => theme.primary};
+  }
+`;
+
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   const theme = useTheme();
   return (
     <Nav>
       <NavbarContainer>
-        <NavLogo to="/">Hritik Paswan</NavLogo>
+        <NavLogo to="/">Hritik paswan</NavLogo>
 
         <MobileIcon onClick={() => setIsOpen(!isOpen)}>
           <MenuRounded style={{ color: "inherit" }} />
@@ -160,6 +194,10 @@ const Navbar = () => {
             <NavLink onClick={() => setIsOpen(!isOpen)} href="#Projects">
               Projects
             </NavLink>
+            {/* <MobileLink href='#projects' onClick={() => {
+              setIsOpen(!isOpen)
+            }}>Projects</MobileLink> */}
+
             <NavLink onClick={() => setIsOpen(!isOpen)} href="#Education">
               Education
             </NavLink>

@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Hritik1753",
   resume:
-    "https://drive.google.com/file/d/113kd4OXJ54Kee5IO7fHzdXZ5pj0WZhW1/view?usp=sharing",
+    "https://drive.google.com/file/d/1bd9zJwHOBD0bJ8zQEo-PabQ_9OJW5a0x/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/hritik-paswan/",
   // twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/hritik3908/",
@@ -193,7 +193,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://cdn.telanganatoday.com/wp-content/uploads/2021/07/Jawahar-Navodaya-Vidyalaya-.jpg",
+    img: "https://media.licdn.com/dms/image/C510BAQGK87VYL7oZLw/company-logo_200_200/0/1630566378561?e=1727913600&v=beta&t=ee_rdZSbj4yRsKsRQz2d7UETt6AkpfadrfwtrOWARzc",
     school: "Jawahar Navodaya Vidyalaya Meja Khas prayagraj ",
     date: "Apr 2019 - Apr 2020",
     grade: "86.2%",
@@ -202,7 +202,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://cdn.telanganatoday.com/wp-content/uploads/2021/07/Jawahar-Navodaya-Vidyalaya-.jpg",
+    img: "https://media.licdn.com/dms/image/C510BAQGK87VYL7oZLw/company-logo_200_200/0/1630566378561?e=1727913600&v=beta&t=ee_rdZSbj4yRsKsRQz2d7UETt6AkpfadrfwtrOWARzc",
     school: "Jawahar Navodaya Vidyalaya sonikpur barabanki ",
     date: "Apr 2017 - Apr 2018",
     grade: "87.8%",
@@ -220,21 +220,21 @@ export const projects = [
     description:
       "Developed a real time chat application where we connect with many people at same time and chat with us in real time the project is made up using html css javascript socet.io node.js.",
     image:
-      "real-chat-application.png",
+      "https://raw.githubusercontent.com/Hritik1753/hritik_portfolio/master/src/data/real-chat-application.png",
     tags: ["Socket.io", "MongoDb", "Node Js", "Express Js", "javascript"],
     category: "web app",
-    github: "https://github.com/hritik9335502064",
+    github: "https://github.com/Hritik1753",
   //   webapp: "https://podstream.netlify.app/",
-    member: [
-      {
-        name: "Hritik Paswan",
-        img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
-        linkedin: "https://www.linkedin.com/in/hritik-paswan/",
-        github: "https://github.com/hritik9335502064",
-      },
+    // member: [
+    //   {
+    //     name: "Hritik Paswan",
+    //     img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
+    //     linkedin: "https://www.linkedin.com/in/hritik-paswan/",
+    //     github: "https://github.com/hritik9335502064",
+    //   },
      
       
-    ],
+    // ],
   },
   {
     id: 1,
@@ -243,7 +243,7 @@ export const projects = [
     description:
       "Designed and developed the blog-post project, a blog posting website where we can post a jokes with diffirent catogry. ",
     image:
-      "blog_post.png",
+      "https://raw.githubusercontent.com/Hritik1753/hritik_portfolio/master/src/data/blog_post.png",
     tags: [
       "React Js",
       "MongoDb",
@@ -255,16 +255,16 @@ export const projects = [
     category: "web app",
     linkedin: "https://www.linkedin.com/in/hritik-paswan/",
     github: "https://github.com/hritik9335502064",
-    member: [
-      {
-        name: "Hritik Paswan",
-        img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
-        linkedin: "https://www.linkedin.com/in/hritik-paswan/",
-        github: "https://github.com/hritik9335502064",
-      },
+    // member: [
+    //   {
+    //     name: "Hritik Paswan",
+    //     img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
+    //     linkedin: "https://www.linkedin.com/in/hritik-paswan/",
+    //     github: "https://github.com/Hritik1753",
+    //   },
      
      
-    ],
+    // ],
   },
   {
     id: 2,
@@ -273,20 +273,20 @@ export const projects = [
     description:
       "this is a full stack notes making website from this website we can create , update and delete our notes  ",
     image:
-      "iNotebook.png",
+      "https://raw.githubusercontent.com/Hritik1753/hritik_portfolio/master/src/data/iNotebook.png",
     tags: ["Mongoose", "Mongodb", "express.js", "Node.js", "Redux", "React"],
     category: "web app",
     linkedin: "https://www.linkedin.com/in/hritik-paswan/",
     github: "https://github.com/Hritik1753?tab=repositories",
-    member: [
-      {
-        name: "Hritik Paswan",
-        img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
-        linkedin: "https://www.linkedin.com/in/hritik-paswan/",
-        github: "https://github.com/hritik9335502064",
-      },
+    // member: [
+    //   {
+    //     name: "Hritik Paswan",
+    //     img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
+    //     linkedin: "https://www.linkedin.com/in/hritik-paswan/",
+    //     github: "https://github.com/Hritik1753",
+    //   },
     
-    ],
+    // ],
   },
   {
     id: 3,
@@ -295,7 +295,7 @@ export const projects = [
     description:
       "this is a full stack residentials booking website in this website you can search for rooms for staying acoording to your preffered locations and book for staying.",
     image:
-      "lets_book0.png",
+      "https://raw.githubusercontent.com/Hritik1753/hritik_portfolio/master/src/data/lets_book.png",
     tags: ["Mongoose", "Mongodb", "express.js", "Node.js", "Redux", "React"],
     category: "web app",
     linkedin: "https://www.linkedin.com/in/hritik-paswan/",
@@ -305,7 +305,7 @@ export const projects = [
         name: "Hritik Paswan",
         img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
         linkedin: "https://www.linkedin.com/in/hritik-paswan/",
-        github: "https://github.com/hritik9335502064",
+        github: "https://github.com/Hritik1753",
       },
            {
         name: "Sejal Raj",
@@ -323,7 +323,7 @@ export const projects = [
     description:
       "A Decentrilized-e-Voting-system is website which is based on blockchain based technology,in this website user can vote to participents, and anyone can parcipate as participents in election.",
     image:
-      "college_voting.png",
+      "https://raw.githubusercontent.com/Hritik1753/hritik_portfolio/master/src/data/college_voting.png",
     tags: ["React js", "mysql", "solidity","node.js"],
     category: "web app",
     linkedin: "https://www.linkedin.com/in/hritik-paswan/",
@@ -334,7 +334,7 @@ export const projects = [
         name: "Hritik Paswan",
         img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
         linkedin: "https://www.linkedin.com/in/hritik-paswan/",
-        github: "https://github.com/hritik9335502064",
+        github: "https://github.com/Hritik1753",
       },
      
       {
@@ -368,21 +368,21 @@ export const projects = [
     description:
       "Admin pannel it is a dashboard for Admin in this Admin can see the all details of its users and update and create acoording to itself.",
     image:
-      "Admin_pannel.png",
+      "https://raw.githubusercontent.com/Hritik1753/hritik_portfolio/master/src/data/Admin_pannel.png",
     tags: ["React Js", "materail UI"],
     category: "web app",
     github: "https://github.com/Hritik1753?tab=repositories",
     webapp: "",
-    member: [
-      {
-        name: "Hritik Paswan",
-        img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
-        linkedin: "https://www.linkedin.com/in/hritik-paswan/",
-        github: "https://github.com/hritik9335502064",
-      },
+    // member: [
+    //   {
+    //     name: "Hritik Paswan",
+    //     img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
+    //     linkedin: "https://www.linkedin.com/in/hritik-paswan/",
+    //     github: "https://github.com/Hritik1753",
+    //   },
      
       
-    ],
+    // ],
   },
   {
     id: 5,
@@ -391,26 +391,26 @@ export const projects = [
     description:
       " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
     image:
-      "todolist.png",
+      "https://raw.githubusercontent.com/Hritik1753/hritik_portfolio/master/src/data/todolist.png",
     tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
     category: "web app",
     github: "",
     webapp: "",
-    member: [
-      {
-        name: "Hritik Paswan",
-        img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
-        linkedin: "https://www.linkedin.com/in/hritik-paswan/",
-        github: "https://github.com/hritik9335502064",
-      },
+    // member: [
+    //   {
+    //     name: "Hritik Paswan",
+    //     img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
+    //     linkedin: "https://www.linkedin.com/in/hritik-paswan/",
+    //     github: "https://github.com/Hritik1753",
+    //   },
      
-      // {
-      //   name: "Upasana Chaudhuri",
-      //   img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-      //   linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-      //   github: "https://github.com/upasana0710",
-      // },
-    ],
+    //   // {
+    //   //   name: "Upasana Chaudhuri",
+    //   //   img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+    //   //   linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //   //   github: "https://github.com/upasana0710",
+    //   // },
+    // ],
   },
   {
     id: 6,
@@ -419,19 +419,19 @@ export const projects = [
     description:
       "A simple react app that shows live location of satelite, news , and also give lessons and quizes for spce knowledge. It uses the NASA API to fetch the data of all space related information ,like satelite live location, future upcoming profram and data of past programs also , we use news api here from finding news  related to space organisations. It also has a search bar to search for a particular character.",
     image:
-      "space-dashboard.png",
+      "https://raw.githubusercontent.com/Hritik1753/hritik_portfolio/master/src/data/space-dashboard.png",
     tags: ["React Js", "API", "Axios", "Node JS"],
     category: "web app",
     github: "https://github.com/Hritik1753?tab=repositories",
     webapp: "",
 
-    member: [
-      {
-        name: "Hritik Paswan",
-        img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
-        linkedin: "https://www.linkedin.com/in/hritik-paswan/",
-        github: "https://github.com/hritik9335502064",
-      },
+    // member: [
+    //   {
+    //     name: "Hritik Paswan",
+    //     img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
+    //     linkedin: "https://www.linkedin.com/in/hritik-paswan/",
+    //     github: "https://github.com/Hritik1753",
+    //   },
      
       // {
       //   name: "Upasana Chaudhuri",
@@ -439,21 +439,37 @@ export const projects = [
       //   linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
       //   github: "https://github.com/upasana0710",
       // },
+    // ],
+  },
+  {
+    id: 7,
+    title: "Code-zone",
+    date: "july 2024 - july 2024",
+    description:
+      "A Code-zone project is made for storing your important coding question you can categorised in easy, medium, hard problem and store it and also you you can store your important notes, video, audio, links, and others",
+    image:
+      "https://raw.githubusercontent.com/Hritik1753/hritik_portfolio/master/src/data/code-zone.png",
+    tags: ["typescript", "vs code", "react","Firebase", "Google Auth"],
+    category: "web app",
+    github: "https://github.com/Hritik1753",
+    webapp: "",
+
+    member: [
+      {
+        name: "Hritik Paswan",
+        img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
+        linkedin: "https://www.linkedin.com/in/hritik-paswan/",
+        github: "https://github.com/Hritik1753",
+      },
+           {
+        name: "Sejal Raj",
+        img: "https://media.licdn.com/dms/image/D4D03AQHQfSihc7IluA/profile-displayphoto-shrink_800_800/0/1670559259152?e=1724889600&v=beta&t=HfJzl4J0l0H1NV0mwmmZXOfUtqTEDIvbhq0xMpswaWQ",
+        linkedin: "https://www.linkedin.com/in/sejalraj2002/",
+        github: "https://github.com/raj-sejal",
+      },
+     
     ],
   },
-  // {
-  //   id: 7,
-  //   title: "Quiz App",
-  //   date: "Dec 2020 - Jan 2021",
-  //   description:
-  //     "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
-  //   image:
-  //     "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
-  //   tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
-  //   category: "android app",
-  //   github: "https://github.com/rishavchanda/Quiz-Earn",
-  //   webapp: "https://github.com/rishavchanda/Quiz-Earn",
-  // },
   // {
   //   id: 8,
   //   title: "Face Recognition",
@@ -470,10 +486,10 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
+  { year: 2021, text: "Started my journey" },
+  // { year: 2018, text: "Worked as a freelance developer" },
+  { year: 2022, text: "Founded JavaScript Mastery" },
+  { year: 2023, text: "Founded React mystry" },
+  { year: 2024, text: "Started my own platform" },
 ];
 
