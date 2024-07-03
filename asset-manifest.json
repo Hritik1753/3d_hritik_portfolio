@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/3d_hritik_portfolio/static/css/main.58a0c615.css",
-    "main.js": "/3d_hritik_portfolio/static/js/main.dfabe43d.js",
-    "static/media/HeroImage.jpg": "/3d_hritik_portfolio/static/media/HeroImage.8baf04394ffb77bec7fd.jpg",
-    "index.html": "/3d_hritik_portfolio/index.html",
-    "main.58a0c615.css.map": "/3d_hritik_portfolio/static/css/main.58a0c615.css.map",
-    "main.dfabe43d.js.map": "/3d_hritik_portfolio/static/js/main.dfabe43d.js.map"
+    "main.css": "/https//Hritik1753.github.io/3d_hritik_portfolio/static/css/main.58a0c615.css",
+    "main.js": "/https//Hritik1753.github.io/3d_hritik_portfolio/static/js/main.29ab5b64.js",
+    "static/media/HeroImage.jpg": "/https//Hritik1753.github.io/3d_hritik_portfolio/static/media/HeroImage.8baf04394ffb77bec7fd.jpg",
+    "index.html": "/https//Hritik1753.github.io/3d_hritik_portfolio/index.html",
+    "main.58a0c615.css.map": "/https//Hritik1753.github.io/3d_hritik_portfolio/static/css/main.58a0c615.css.map",
+    "main.29ab5b64.js.map": "/https//Hritik1753.github.io/3d_hritik_portfolio/static/js/main.29ab5b64.js.map"
   },
   "entrypoints": [
     "static/css/main.58a0c615.css",
-    "static/js/main.dfabe43d.js"
+    "static/js/main.29ab5b64.js"
   ]
 }
