@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Hritik1753",
   resume:
-    "https://drive.google.com/file/d/113kd4OXJ54Kee5IO7fHzdXZ5pj0WZhW1/view?usp=sharing",
+    "https://drive.google.com/file/d/1CGbM-8LOHykdhkqH3rB1u8olwK4Lm9wZ/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/hritik-paswan/",
   insta: "https://www.instagram.com/hritik3908/",
   facebook: "",
@@ -29,11 +29,11 @@ export const skills = [
         image:
           "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
       },
-      {
-        name: "Next Js",
-        image:
-          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
-      },
+      // {
+      //   name: "Next Js",
+      //   image:
+      //     "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
+      // },
       {
         name: "HTML",
         image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
@@ -178,7 +178,7 @@ export const education = [
     img: "https://media.licdn.com/dms/image/C4E0BAQEY3zqay8qyTQ/company-logo_400_400/0/1630615368872?e=2147483647&v=beta&t=s1nvvo_Z6q7TDmadpUyVBU3ZkcMCENjDbNaytE4yN1Q",
     school: "Motilal Nehru National Institute of Technology (MNNIT)",
     date: "Dec 2021 - May 2025",
-    grade: "7.67 CPi",
+    grade: "7.51 CPi",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Motilal Nehru National Institute of Technology Allahabad Prayagraj. I have completed 6 semesters and have a CPI of 7.51. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
   },
   {
@@ -186,7 +186,7 @@ export const education = [
     img: "https://media.licdn.com/dms/image/C510BAQGK87VYL7oZLw/company-logo_200_200/0/1630566378561?e=1727913600&v=beta&t=ee_rdZSbj4yRsKsRQz2d7UETt6AkpfadrfwtrOWARzc",
     school: "Jawahar Navodaya Vidyalaya Meja Khas prayagraj ",
     date: "Apr 2019 - Apr 2020",
-    grade: "86.2%",
+    grade: "86.8%",
     desc: "I completed my class 12 high school education from Jawahar Navodaya Vidyalaya, Prayagraj, where I studied with Science Stream with hindi as a optional subject .",
     degree: "CBSE(XII), Science with hindi",
   },
@@ -195,7 +195,7 @@ export const education = [
     img: "https://media.licdn.com/dms/image/C510BAQGK87VYL7oZLw/company-logo_200_200/0/1630566378561?e=1727913600&v=beta&t=ee_rdZSbj4yRsKsRQz2d7UETt6AkpfadrfwtrOWARzc",
     school: "Jawahar Navodaya Vidyalaya sonikpur barabanki ",
     date: "Apr 2017 - Apr 2018",
-    grade: "87.8%",
+    grade: "87.6%",
     desc: "I completed my class 10 Secondary schooling education from Jawahar Navodaya Vidyalaya, Barabanki.",
     degree: "CBSE(X)",
   },
